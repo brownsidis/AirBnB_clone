@@ -1,1 +1,5 @@
-0x00. AirBnB clone - The console
+AirBnB clone - The console
+
+A project developed by 
+
+Akajameh Brown Imani & Chiamaka Emmanuel
